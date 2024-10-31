@@ -1,4 +1,4 @@
-## Hi there 👋
+## Meu nome é Kaua 👋
 
 <!--
 **simaok2008/simaok2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
